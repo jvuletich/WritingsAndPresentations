@@ -1,0 +1,10 @@
+
+Cuis: The Smalltalk with a fully zoomable, vector graphics GUI
+Smalltalks Conference, Buenos Aires
+2022-11
+https://www.youtube.com/watch?v=7dRQ52ttZdM
+
+Unicode Support in Cuis Smalltalk
+Smalltalks Conference, Buenos Aires
+2022-11
+https://www.youtube.com/watch?v=P6e2_NvLpxE
